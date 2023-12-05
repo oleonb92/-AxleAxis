@@ -1,0 +1,21 @@
+# .gitignore
+
+# Python/Django-related files and directories
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+.idea/
+.vscode/
+venv/
+.env
+
+# Node.js/React-related files and directories
+node_modules/
+.npm/
+.yarn/
+build/
+.env.local
+.env.development
+.env.production
+
